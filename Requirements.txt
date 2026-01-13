@@ -1,0 +1,11 @@
+matplotlib
+tensorflow
+soundata
+resampy
+Ipython
+librosa
+tqdm
+sklearn
+pandas
+numpy
+pickle5
