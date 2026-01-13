@@ -147,6 +147,6 @@ git clone https://github.com/huzayfaSiddique/audio-sound-classification.git
 Install required libraries:
 pip install -r requirements.txt
 
-##Summary
+## Summary
 This project demonstrates a complete and practical approach to audio sound classification, starting from raw audio signals and ending with numerical feature learning using an Artificial Neural Network.
 The use of MFCCs allows the model to work with meaningful audio features rather than raw waveforms.
